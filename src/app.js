@@ -21,6 +21,9 @@ for (let i = 0;i<hayatSigortalari.length;i++){
 }
 console.log("</ul>")
 
+
+
+
 let tasitSigortalari = ["Dolu hasarı","Kapsamlı kaza sigortası","Sel sigortası","Tam kapsamlı sigorta"]
 
 console.log ("<ul>")
